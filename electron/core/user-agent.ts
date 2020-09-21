@@ -18,7 +18,6 @@ export class UserAgent {
         "Linux; Android 7.0; SAMSUNG-SM-G891A Build/NRD90M",
         "Linux; Android 7.0; SM-G930S Build/NRD90M",
         "Linux; Android 7.1.2; Nexus 5X Build/N2G47O",
-        "Linux; Android 7.0; SM-G930S Build/NRD90M",
         "Linux; Android 6.0.1; XT1254 Build/MCG24.251-5-5",
         "Linux; Android 8.0.0; SM-G960F Build/R16NW", // Samsung Galaxy S9
         "Linux; Android 7.0; SM-G892A Build/NRD90M", // Samsung Galaxy S8
@@ -27,7 +26,6 @@ export class UserAgent {
         "Linux; Android 7.0; Nexus 5X Build/NRD90M",
         "Linux; Android 6.0.1; SM-G920V Build/MMB29K", // Samsung Galaxy S6
         "Linux; Android 6.0.1; Z988 Build/MMB29M",
-        "Linux; Android 7.0; Nexus 5X Build/NRD90M",
         "Linux; Android 6.0.1; SM-G928X Build/LMY47X", // Samsung Galaxy S6 Edge Plus
         "Linux; Android 6.0.1; Nexus 6P Build/MMB29P", // Nexus 6P
         "Linux; Android 7.1.1; K92 Build/NMF26V",
@@ -35,14 +33,18 @@ export class UserAgent {
         "Linux; Android 6.0; HTC One X10 Build/MRA58K", // HTC One X10
         "Linux; Android 7.1.1; ONEPLUS A5000 Build/NMF26X",
         "Linux; Android 5.1.1; SM-G928X Build/LMY47X",
-        "Linux; Android 6.0.1; Nexus 6P Build/MMB29P",
-        "Linux; Android 6.0.1; E6653 Build/32.2.A.0.253",
         "Linux; Android 6.0.1; E6653 Build/32.2.A.0.253", // Sony Xperia Z5
-        "Linux; Android 6.0.1; SM-G920V Build/MMB29K",
         "Linux; Android 7.0; LG-H840 Build/NRD90U"
     ];
 
     private _tablets:String[] = [
+        "Linux; Android 7.1.1; SM-T555 Build/NMF26X",
+        "Linux; Android 6.0.1; SHIELD Tablet K1 Build/MRA58K",
+        "Linux; Android 6.0.1; SAMSUNG SM-T550 Build/MMB29M",
+        "Linux; Android 7.0; SAMSUNG SM-T719 Build/NRD90M",
+        "Linux; Android 7.0; SM-T819Y",
+        "Linux; Android 7.0; SM-T810",
+        "Linux; Android 7.0; SAMSUNG SM-T580 Build/NRD90M",
         "Linux; Android 6.0.1; DSGP771 Build/32.2.A.0.253", // Sony Xperia Z4 Tablet
         "Linux; Android 5.1; LPT_200AR Build/LMY47I",
         "Linux; Android 5.1.1; HUAWEI M2-801L Build/HUAWEIM2-801L",
@@ -59,7 +61,6 @@ export class UserAgent {
         "Linux; Android 5.1.1; SHIELD Tablet Build/LMY48C",
         "Linux; Android 6.0; SHIELD Tablet K1 Build/MRA58K",
         "Linux; Android 7.0; SHIELD Tablet K1 Build/NRD90M",
-        "Linux; Android 6.0.1; SHIELD Tablet K1 Build/MRA58K", // Nvidia Shield Tablet K1
         "Linux; Android 5.1; SM-T330 Build/IMM76D",
         "Linux; Android 7.0; SAMSUNG SM-T820 Build/NRD90M",
         "Linux; Android 6.0; BTV-DL09 Build/HUAWEIBEETHOVEN-DL09"
