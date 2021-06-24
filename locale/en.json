@@ -268,7 +268,7 @@
           "bestiary": "Bestiary",
           "title": "Titles and Ornaments",
           "achievement": "Achievements",
-          "dailyQuest": "Almanax",
+          "almanax": "Almanax",
           "spouse": "Spouse",
           "shop": "Shopkeeper"
         },

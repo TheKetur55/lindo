@@ -60,7 +60,7 @@ export interface SettingsInterface {
                 bestiary: string;
                 title: string;
                 achievement: string;
-                dailyQuest: string;
+                almanax: string;
                 spouse: string;
                 shop: string;
                 goultine: string;

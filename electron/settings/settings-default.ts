@@ -135,7 +135,7 @@ export const SettingsDefault: SettingsInterface = {
                 bestiary: "b",
                 title: "t",
                 achievement: "u",
-                dailyQuest: "x",
+                almanax: "x",
                 spouse: "l",
                 shop: "v",
                 goultine: "r"
